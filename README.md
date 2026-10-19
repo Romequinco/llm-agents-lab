@@ -2,6 +2,8 @@
 
 Sistema multi-agente que genera informes del mercado español de forma automática cada día hábil a las 17:35 (Madrid), usando la API de Claude. Incluye newsletter por email, API REST con autenticación JWT, tiers Premium y PRO, y despliegue en Railway.
 
+> **Estado:** prototipo, precursor de [Auguria](https://romequinco.github.io/es/proyectos/auguria/). Ya no está desplegado; el código se conserva como referencia. Más detalle en [su página](https://romequinco.github.io/es/proyectos/ibex-newsletter/).
+
 ---
 
 ## Arquitectura

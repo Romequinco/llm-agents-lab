@@ -2,11 +2,11 @@
 
 > Última actualización: 2026-04-28 — Sprint 1: capa de datos de mercado global
 
-## Estado general: EN PRODUCCIÓN
+## Estado general: PROTOTIPO, PRECURSOR DE AUGURIA
 
-El sistema completo está desplegado y operativo en Railway. Pipeline diario, newsletter, tiers Premium y PRO, y toda la infraestructura de producción verificados. Auditoría de código completada con 8 correcciones aplicadas.
+Ya no está desplegado: el servicio de Railway se retiró y su evolución es [Auguria](https://romequinco.github.io/es/proyectos/auguria/). Lo que sigue describe cómo funcionaba cuando estuvo activo (abril de 2026): estuvo desplegado y operativo en Railway. Pipeline diario, newsletter, tiers Premium y PRO, y toda la infraestructura de producción verificados. Auditoría de código completada con 8 correcciones aplicadas.
 
-**URL de producción:** `https://web-production-6a82d.up.railway.app`
+**URL de producción:** ya no está activa (era `https://web-production-6a82d.up.railway.app`)
 
 ---
 
